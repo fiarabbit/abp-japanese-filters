@@ -12090,3 +12090,5 @@ _yahooads_
 ! ---------- Samurai Factory END ----------
 ! 
 ! ---------- Domains optionally with path END ----------
+dropbooks.tv##.t_news
+dropbooks.tv###book_adbox_cookie
