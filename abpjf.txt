@@ -1,11 +1,11 @@
 [Adblock Plus 2.8.2]
-! Checksum: XBGlxXqFcB6FBzwoP9QYmw
+! Checksum: 4PYsRtI/sz30aiAfLjiaVw
 ! Homepage: https://github.com/k2jp/abp-japanese-filters/
 ! Title: ABP Japanese filters (ONLY FOR Japanese and experienced users: READ Support Policy)
 ! Expires: 6 hours
-! Version: 201706051128
+! Version: 201706051148
 !
-! Last modified: 2017-06-05 11:28 JST(UTC+0900)
+! Last modified: 2017-06-05 11:48 JST(UTC+0900)
 ! Change log: https://github.com/k2jp/abp-japanese-filters/wiki/FilterChangeLog
 ! Code license: GNU GPL v3: http://www.gnu.org/licenses/gpl.html
 ! Content license: Creative Commons BY-NC-SA 4.0 http://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -7746,6 +7746,8 @@ _yahooads_
 ||dtym7iokkjlif.cloudfront.net^
 ||dyau9xqp8gzji.cloudfront.net^
 ||dyx64winab0s2.cloudfront.net^
+||dropbooks.tv##.t_news
+||dropbooks.tv###book_adbox_cookie
 ||cloudsdns.net^
 ||cltrda.com^
 ||club-ama.com^$third-party
@@ -12090,5 +12092,3 @@ _yahooads_
 ! ---------- Samurai Factory END ----------
 ! 
 ! ---------- Domains optionally with path END ----------
-dropbooks.tv##.t_news
-dropbooks.tv###book_adbox_cookie
